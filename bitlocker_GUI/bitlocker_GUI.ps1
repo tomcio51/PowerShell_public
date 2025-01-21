@@ -93,12 +93,7 @@ $checkAction = {
 }
 
 <# GEN log
-$testPathLog = Test-Path (.\bitlocker_log.txt)
-if ($testPathLog){
 
-} else {
-    mkdir "bitlocker_log"
-}
 #>
 
 
