@@ -28,7 +28,7 @@ Add-Type -AssemblyName PresentationFramework
         </StackPanel>
 
         <!-- Action button -->
-        <Button Name="CheckButton" Content="Check enrcryption" Grid.Row="1" Width="150" HorizontalAlignment="Left"/>
+        <Button Name="CheckButton" Content="Check Encryption Status" Grid.Row="1" Width="150" HorizontalAlignment="Left"/
 
         <!-- result fielde -->
         <TextBox Name="OutputBox" Grid.Row="2" Margin="0,10,0,10" VerticalScrollBarVisibility="Auto" IsReadOnly="True" TextWrapping="Wrap"/>
