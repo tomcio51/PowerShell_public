@@ -100,8 +100,8 @@ $checkAction = {
 #>
 
 
-# Przypisanie akcji do przycisku
+# Assigned action to button
 $checkButton.Add_Click($checkAction)
 
-# Wyświetlenie okna
+# View GUI
 $window.ShowDialog()
